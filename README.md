@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="470" height="87" alt="image" src="https://github.com/user-attachments/assets/e36bec85-1aa8-4257-aea8-2f236a59c354" />
 </p>
 
 <p>
